@@ -12854,6 +12854,12 @@
     githubId = 85435692;
     name = "Maxwell Berg";
   };
+  magz = {
+    email = "markus.dam123@gmail.com";
+    github = "TheMagzuz";
+    githubId = 11150183;
+    name = "Markus Dam";
+  };
   mahe = {
     email = "matthias.mh.herrmann@gmail.com";
     github = "2chilled";
